@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2b38d2j9nlgrn7qoq9u2826tr1
+#EXTINF:-2
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2b38d2j9nlgrn7qoq9u2826tr1
+#EXTINF:-3
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2b38d2j9nlgrn7qoq9u2826tr1
+#EXTINF:-4
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2b38d2j9nlgrn7qoq9u2826tr1
+#EXTINF:-5
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2b38d2j9nlgrn7qoq9u2826tr1
+#EXTINF:-6
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2b38d2j9nlgrn7qoq9u2826tr1
+#EXTINF:-7
+https://r5---sn-apn7en7e.googlevideo.com/videoplayback?expire=1627526404&ei=hKQBYey_J5XM0wWk96mwCw&ip=2001:818:eb10:1800:8c75:6237:1565:b4eb&id=be075ed63aaca3c5&itag=22&source=youtube&requiressl=yes&mh=IR&mm=31&mn=sn-apn7en7e&ms=au&mv=m&mvi=3&pl=44&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=13.026&lmt=1626899971857960&mt=1627495967&txp=5432434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhANybZAanM4gC9CTaRoMuvff_sD14FVWYLzU70KXE33u_AiEAnLZA8r8ssB51_3DRXuwAYnjbhj1gwEQVTrSJyKzkpfU=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAM-ppbMBEeLNKIv23lXM7ai2KERJlGGu3LEh_JnFNVrQAiBUX_F2o8thwcJobWmDjumzitTtd_E6LFsd6MBCXqVHHg==&cpn=SuvS-7VBStbdtNgM&ir=1&rr=12
+#EXTINF:-8
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2b38d2j9nlgrn7qoq9u2826tr1
